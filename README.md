@@ -154,15 +154,13 @@ Ideas & pull requests are welcome! Possible enhancements:
 ---
 
 ## 13 Screenshots
-*(Add one image per task in the `/screenshots` folder – each line below will render automatically.)*
-
-![Task 1 – Create CSVs](screenshots/task1.png)  
-![Task 2 – Impute Costs](screenshots/task2.png)  
-![Task 3 – Split Names](screenshots/task3.png)  
-![Task 4 – Merge DataFrames](screenshots/task4.png)  
-![Task 5 – Add Bonus](screenshots/task5.png)  
-![Task 6 – Demote / Prune](screenshots/task6.png)  
-![Task 7 – Prefix Titles](screenshots/task7.png)  
-![Task 8 – Promote Levels](screenshots/task8.png)  
-![Task 9 – Total Cost Summary](screenshots/task9.png)  
-![Task 10 – City Filter Output](screenshots/task10.png)
+![Task 1 – Create CSVs](screenshots/Screenshot1.png)  
+![Task 2 – Impute Costs](screenshots/Screenshot2.png)  
+![Task 3 – Split Names](screenshots/Screenshot3.png)  
+![Task 4 – Merge DataFrames](screenshots/Screenshot4.png)  
+![Task 5 – Add Bonus](screenshots/Screenshot5.png)  
+![Task 6 – Demote / Prune](screenshots/Screenshot6.png)  
+![Task 7 – Prefix Titles](screenshots/Screenshot7.png)  
+![Task 8 – Promote Levels](screenshots/Screenshot8.png)  
+![Task 9 – Total Cost Summary](screenshots/Screenshot9.png)  
+![Task 10 – City Filter Output](screenshots/Screenshot10.png)
